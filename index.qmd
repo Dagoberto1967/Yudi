@@ -963,3 +963,11 @@ ggplot(data.frame(saldo = saldo), aes(x = saldo)) +
 
 En síntesis, la distribución de los saldos de las 30 cuentas por cobrar de Cabrera y Asociados evidencia una mayor concentración de registros en los rangos inferiores de la distribución. Las frecuencias acumuladas permiten establecer que el 63,33 % de las cuentas presenta saldos que no superan 50,70 unidades monetarias y que el 83,33 % se encuentra por debajo o igual a 79,50 unidades monetarias. No obstante, el 16,67 % de las cuentas se ubica en el intervalo de mayores saldos, situación que representa un segmento de interés para la administración financiera de la empresa. Estos resultados proporcionan información descriptiva útil para caracterizar la cartera y orientar las decisiones relacionadas con el seguimiento, priorización y recuperación de las obligaciones pendientes.
 :::
+
+# .Aplicación Shiny Web
+
+::: callout-caution
+## Dar clic en la imagen
+:::
+
+[![](images/clipboard-24765344.png){fig-align="center"}](https://connect.posit.cloud/dasaho2/content/01a1cff5-0ce8-8270-992e-8ba535d0d17d?utm_source=rsconnect-rstudio)

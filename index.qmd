@@ -2,12 +2,12 @@
 title: "DISTRIBUCIONES DE FRECUENCIAS"
 subtitle: "Tablas y gráficas"
 author: 
-  - name: Dagoberto Salgado Horta<br>Diana Rocio Escobar
+  - name: Dagoberto Salgado Horta
     affiliation: "Escuela Superior de Administración Pública"
     affiliation-url: "https://www.esap.edu.co/"
 date: today
 lang: es
-title-block-banner: "#98b6ed"
+title-block-banner: "#c3d0e8"
 
 format:
   html:

@@ -12,9 +12,9 @@ title-block-banner: "#c3d0e8"
 format:
   html:
     page-layout: full
-    fontsize: 14pt
+    fontsize: 16pt
     toc: true
-    toc-location: right
+    toc-location: left
     number-sections: true
     code-fold: true
     code-summary: "Ver código"
